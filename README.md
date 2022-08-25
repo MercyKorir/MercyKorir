@@ -5,3 +5,4 @@ Reach me @ mcthegreat78@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MercyKorir&hide=prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MercyKorir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
