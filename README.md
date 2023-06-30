@@ -10,7 +10,7 @@
   </div>
   <img src='https://komarev.com/ghpvc/?username=MercyKorir&style=flat-square&color=blue' alt='' />
   <h1>
-    Hi there
+    Hi there!
     <img src='https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif' width='30px' />
   </h1>
 </div>
@@ -21,14 +21,14 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a passonate Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya, fueled by curiosity and a love for turning ideas into reality.
+- :telescope: I am working as a Software Engineer and contributing to frontend and backend for building web applications. Armed with my trusty keyboard and a cup of coffee, I dive into the intricate world of algorithms, problem-solving, and crafting elegant code.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling:  Innovation and creativity are the guiding stars that illuminate my path. I thrive on the thrill of finding elegant solutions to complex challenges, constantly seeking out new technologies and approaches to expand my repertoire.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: As a technology enthusiast, I have a particular affinity for the realm of artificial intelligence and machine learning. Harnessing the power of data to unlock insights and build intelligent systems is where my heart truly sings.
 
-- :mailbox:How to reach me: [![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mercychelangatkorir/)
+- :mailbox:Feel free to connect with me on: [![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mercychelangatkorir/) and let's embark on new coding adventures together!
 
 ---
 
@@ -48,5 +48,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src='https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg' width='40' height='40'/>
   <img src='https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg' width='40' height='40'/>
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MercyKorir&theme=tokyonight&hide_border=true&background=000000)](https://git.io/streak-stats)
 
 
