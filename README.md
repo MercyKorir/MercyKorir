@@ -21,7 +21,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a passonate Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya, fueled by curiosity and a love for turning ideas into reality.
+I am a passonate Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya, fueled by curiosity and a love for turning ideas into reality.
 - :telescope: I am working as a Software Engineer and contributing to frontend and backend for building web applications. Armed with my trusty keyboard and a cup of coffee, I dive into the intricate world of algorithms, problem-solving, and crafting elegant code.
 
 - :seedling:  Innovation and creativity are the guiding stars that illuminate my path. I thrive on the thrill of finding elegant solutions to complex challenges, constantly seeking out new technologies and approaches to expand my repertoire.
